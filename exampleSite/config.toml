@@ -1,4 +1,4 @@
-baseURL = "https//:suspicious-lovelace-43f600.netlify.app"
+baseURL = "https//:suspicious-lovelace-43f600.netlify.com"
 disableLanguages = []
 disqusShortname = "educenter"
 paginate = "6"
