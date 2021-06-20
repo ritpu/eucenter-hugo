@@ -1,4 +1,4 @@
-baseURL = "http://ultimatefreedom.xyz"
+baseURL = "www.ultimatefreedom.xyz"
 disableLanguages = []
 disqusShortname = "educenter"
 paginate = "6"
